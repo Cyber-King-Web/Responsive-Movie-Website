@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Cyber-King-Web"><img src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/banner.png"></a>
+  <a href="https://github.com/Cyber-King-Web"><img src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/banner.png" alt="Mohammad Zahid Quadri"></a>
 </p>
 
 ![Profile](https://komarev.com/ghpvc/?username=Cyber-King-Web&color=yellow)
@@ -28,10 +28,10 @@
 
 <p align="center">
  <a href="https://quadriweb.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Zahid" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mohammad Zahid Quadri" />
  </a>
  <a href="https://www.linkedin.com/in/mohammad-zahid-quadri-676969212/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zahid"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Zahid Quadri"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -40,13 +40,16 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/king_zahid_quadri" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Zahid" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammad Zahid Quadri" />
  </a> 
  <a href="https://www.facebook.com/mohammad.zahid.quadri" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Zahid"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Mohammad Zahid Quadri"  />
   </a> 
 
 <br>
     <br>
-
-  <img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left">
+    <h2 align="center">
+Website ScreenShots
+    </h2>
+  <img width="300" src="https://github.com/Cyber-King-Web/Responsive-Movie-Website/blob/website/img2.jpg" align="left" alt="movies website Mohammad Zahid Quadri">
+  <img width="300" src="https://github.com/Cyber-King-Web/Responsive-Movie-Website/blob/website/img1.jpg" align="right" alt="movies websits Mohammad Zahid Quadri">
